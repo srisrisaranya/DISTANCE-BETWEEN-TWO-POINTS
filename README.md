@@ -12,8 +12,8 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### PROGRAM:
 ```
 #Program to find the distance between two points.
-#Developed by: 
-#RegisterNumber:
+#Developed by: saranya s
+#RegisterNumber:23013399
 import math
 l1=[10,6]
 l2=[4,2]
@@ -21,7 +21,8 @@ distance=math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
 print("{:.2f}".format(distance))
 ```
 ### OUTPUT:
-![image](https://github.com/srisrisaranya/DISTANCE-BETWEEN-TWO-POINTS/assets/148516638/2da5363b-e600-46a1-bea3-6f4d1b5156c6)
+![image](https://github.com/srisrisaranya/DISTANCE-BETWEEN-TWO-POINTS/assets/148516638/61fe934e-b879-49ec-8536-7a4e06882c1d)
+
 
 ### RESULT:
 Thus the between two point are executed successfully
